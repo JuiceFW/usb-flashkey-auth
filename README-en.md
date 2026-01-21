@@ -109,3 +109,9 @@ else:
 This project is **not** intended to provide high-level cryptographic security. It implements a hardware access factor, not DRM.
 
 ---
+
+## Languages/Языки
+[Русский README](README.md)
+[English README](README-en.md)
+
+---
