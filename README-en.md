@@ -111,7 +111,7 @@ This project is **not** intended to provide high-level cryptographic security. I
 ---
 
 ## Languages/Языки
-[Русский README](README.md)
-[English README](README-en.md)
+- [Русский README](README.md)
+- [English README](README-en.md)
 
 ---

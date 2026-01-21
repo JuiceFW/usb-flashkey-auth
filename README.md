@@ -107,7 +107,7 @@ else:
 ---
 
 ## Языки/Languages
-[Русский README](README.md)
-[English README](README-en.md)
+- [Русский README](README.md)
+- [English README](README-en.md)
 
 ---
